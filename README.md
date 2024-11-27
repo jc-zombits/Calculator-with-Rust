@@ -43,9 +43,34 @@
 
 ### Ejemplo de Ejecución:
 
-> **Entrada válida**
-**Usuario**
-
-
-
-
+> **Entrada válida:**
+>
+> **Usuario**
+>
+> ![alt text](<Captura desde 2024-11-26 22-41-43.png>)
+>
+> **Salida**
+>
+> ![alt text](<Captura desde 2024-11-26 22-42-25.png>)
+>
+> **Entrada inválida (División por cero):**
+>
+> **Usuario**
+>
+> ![alt text](<Captura desde 2024-11-26 22-43-47.png>)
+>
+> **Salida**
+>
+> ![alt text](<Captura desde 2024-11-26 22-44-37.png>)
+>
+> **Operación seleccionada inválida:**
+>
+> **Usuario**
+>
+> ![alt text](<Captura desde 2024-11-26 22-45-27.png>)
+>
+> **Salida**
+>
+> ![alt text](<Captura desde 2024-11-26 22-46-05.png>)
+>
+- Esta es una breve explicación de lo que sería una calculadora básica escrita con Rust.
