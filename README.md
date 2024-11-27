@@ -10,8 +10,8 @@
 
 ![alt text](<Captura desde 2024-11-26 22-21-02.png>)
 
-- **let mut operation = String::new();** crea una cadena mutable donde almacenaremos la entrada del usuario.
-- **io::stdin().read_line(&mut operation);** lee la entrada desde la consola y la guarda en **operation**.
+- `let mut operation = String::new();` crea una cadena mutable donde almacenaremos la entrada del usuario.
+- `io::stdin().read_line(&mut operation);` lee la entrada desde la consola y la guarda en `operation`.
 
 
 
